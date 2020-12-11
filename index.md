@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
-
+theme:jekyll-theme-hacker
+title:Welcome to the My First homepage
+description:Felll free to bookmark this to keep an eye on my project updates
 You can use the [editor on GitHub](https://github.com/meixiaohu19980217/My-Home-Page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
